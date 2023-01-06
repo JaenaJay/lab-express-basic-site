@@ -1,0 +1,29 @@
+body {
+    color: blue;
+    background-color:  rgb(231, 231, 175);
+  }
+
+img {
+    border: 5px blue solid;
+    width:900px;
+
+    
+}
+
+.gallery-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+#gallery-caption-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 75px;
+    
+}

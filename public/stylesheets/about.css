@@ -1,0 +1,14 @@
+body {
+    color: blue;
+    background-color:  rgb(231, 231, 175);
+  }
+
+img {
+    border: 2px;
+}
+
+.about-text{
+  font-size: 25px;
+  font-weight: bold;
+  width:700px;
+}
